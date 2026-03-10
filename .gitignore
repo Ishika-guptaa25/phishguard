@@ -1,0 +1,7 @@
+dataset_full.csv
+dataset_converted.csv
+converted_dataset.jsonl
+*.pkl
+__pycache__/
+.venv/
+.idea/
