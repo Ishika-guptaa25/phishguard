@@ -5,7 +5,7 @@ import plotly.express as px
 from model import PhishingDetectionModel
 import os
 from datetime import datetime
-
+ 
 # Configure Streamlit
 st.set_page_config(
     page_title="Phishing Detection System",
